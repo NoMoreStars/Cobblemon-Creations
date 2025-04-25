@@ -1,0 +1,16 @@
+filename = 'cobblemon-capturexp-1.6-neoforge-1.0.1.jar'
+name = 'Cobblemon Capture XP'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c5b40786649793648035b1b2f5a846e0e4b264ab2bb413006bd3af36324dcd513bc69867e58714133d7f508473900bf2f76108b6376c93dea7a1f2e913c737a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LBl4Qguc/versions/vYUq8ykQ/cobblemon-capturexp-1.6-neoforge-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'LBl4Qguc'
+version = 'vYUq8ykQ'

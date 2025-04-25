@@ -1,0 +1,16 @@
+filename = 'trading_floor-3.0.4.jar'
+name = 'Create: Trading floor'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cd713bd7bc317f1323d3094a468c1b35ee5e81a9fa00ac8a2bdb1269655f4cae4fc90a87f48e13c2d46097027bc17b5147bd5423689105d4f037a1887a293499'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WROfLLvn/versions/Lgjcamik/trading_floor-3.0.4.jar'
+
+[update.modrinth]
+mod-id = 'WROfLLvn'
+version = 'Lgjcamik'

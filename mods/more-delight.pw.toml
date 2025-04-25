@@ -1,0 +1,16 @@
+filename = 'moredelight-25.01.13a-1.21-neoforge.jar'
+name = "More Delight (for Farmer's Delight)"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '61d22baf32827b7219484b192acc0eaf0e9f819e9c6aa31764f734d1b15e4c3933b4238acf06f9fbcf531025963e139199758b94b47adcf85ae4068e42e85310'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/znHQQtuU/versions/aTCpE3AT/moredelight-25.01.13a-1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'znHQQtuU'
+version = 'aTCpE3AT'

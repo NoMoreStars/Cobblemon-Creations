@@ -1,0 +1,16 @@
+filename = 'fightorflight-neoforge-0.7.8.jar'
+name = 'Cobblemon Fight or Flight Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ba1ee3545e26dd0c34e1ce70a6c25e0276a43b2938837ea47991a7e92060b60ec3bf1628500b687d0a68c8fdb97f9ba2dcc642c0c5bdf8dfea3817e5e45a0b41'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cTdIg5HZ/versions/p6S7xS1J/fightorflight-neoforge-0.7.8.jar'
+
+[update.modrinth]
+mod-id = 'cTdIg5HZ'
+version = 'p6S7xS1J'

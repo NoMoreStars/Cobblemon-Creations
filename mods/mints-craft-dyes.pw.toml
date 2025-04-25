@@ -1,0 +1,16 @@
+filename = 'mints-craft-dyes-1.0.0.jar'
+name = 'Mints Craft Dyes [Cobblemon]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6ffcc6965857d2b362a791c607420de330500ed138128ff2a14cf2f596131c8735d99b8c0aefff6756e006e9a378870406bdf39e9319801c3288db964d3ea146'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NDjf1V69/versions/ZnOKJDmv/mints-craft-dyes-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'NDjf1V69'
+version = 'ZnOKJDmv'

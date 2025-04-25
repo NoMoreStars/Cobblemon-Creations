@@ -1,0 +1,16 @@
+filename = 'cobblemon-counter-1.6-neoforge-1.3.4.jar'
+name = 'Cobblemon Counter'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '203b0003d8da1305e968c2d024bb8ea8466a3d3f66431f1beff5241329bacf0b421b8b1783bb45fd3e9d6e1cc022df67d458c06a0a72dbfc8007d13f1f63e599'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rj8uLYP4/versions/73bhYZIA/cobblemon-counter-1.6-neoforge-1.3.4.jar'
+
+[update.modrinth]
+mod-id = 'rj8uLYP4'
+version = '73bhYZIA'

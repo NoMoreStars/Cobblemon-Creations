@@ -1,0 +1,13 @@
+name = "Cobble Creations"
+author = "Boggle_Crunch"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f692db624973355ad3e4f28beb73795a7ca8142d6a34b230180e7669b04ca66"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.162"

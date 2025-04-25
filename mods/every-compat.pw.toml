@@ -1,0 +1,16 @@
+filename = 'everycomp-1.21-2.9.10-neoforge.jar'
+name = 'Every Compat (Wood Good)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c07bcdea2188982deffe1d3f8f8d7bbd011ab2cb8c20a4dda47e92c73ce3306435ba23daeb164503993eb98a3cfd593eed27e9682cec03a3cb299fb18d77788a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/OA1qCzkH/everycomp-1.21-2.9.10-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'eiktJyw1'
+version = 'OA1qCzkH'

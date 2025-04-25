@@ -1,0 +1,16 @@
+filename = 'Cobbreeding-neoforge-1.9.0.jar'
+name = 'Cobbreeding'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1cf885a7c1ac138b3def18a65b51069b1a522c861225b5a23450b2b560c8940f7126318faf167666667c68369b3da5fa11f6402d918c2b2507cdb984f1aa1139'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ItmVb4zY/versions/cosIcjwc/Cobbreeding-neoforge-1.9.0.jar'
+
+[update.modrinth]
+mod-id = 'ItmVb4zY'
+version = 'cosIcjwc'

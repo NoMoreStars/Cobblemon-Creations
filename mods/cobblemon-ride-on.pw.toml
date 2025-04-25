@@ -1,0 +1,16 @@
+filename = 'cobbleride-neoforge-0.2.4+1.21.1.jar'
+name = 'Cobblemon: Ride On!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '95576e3a8ae3d38ae097a975804169ed4bf2337de453e178cd61eead88eba9ee6f47a4934aa26ab9a5759fdc3371d740dc703cd525e31899d432073e5ec5e653'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vXREhDPP/versions/e4IEk9UO/cobbleride-neoforge-0.2.4%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'vXREhDPP'
+version = 'e4IEk9UO'
