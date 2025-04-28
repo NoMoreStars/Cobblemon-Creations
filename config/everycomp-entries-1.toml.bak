@@ -32,6 +32,9 @@
 			sepia = true
 			nut = true
 
+		[types.wood_type.cobblemon]
+			apricorn = true
+
 		[types.leaves_type.culturaldelights]
 			avocado = true
 			fruiting_avocado = true
@@ -97,6 +100,9 @@
 			yellow_birch = true
 			yellow_spruce = true
 			firecracker = true
+
+		[types.leaves_type.cobblemon]
+			apricorn = true
 
 #Disables specific entries
 [entries]

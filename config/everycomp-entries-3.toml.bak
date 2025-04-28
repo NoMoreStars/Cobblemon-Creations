@@ -1,6 +1,9 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
+		[types.wood_type.cobblemon]
+			apricorn = true
+
 		[types.wood_type.biomeswevegone]
 			aspen = true
 			baobab = true
@@ -31,6 +34,9 @@
 		[types.wood_type.garnished]
 			sepia = true
 			nut = true
+
+		[types.leaves_type.cobblemon]
+			apricorn = true
 
 		[types.leaves_type.culturaldelights]
 			avocado = true

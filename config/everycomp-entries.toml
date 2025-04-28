@@ -104,6 +104,41 @@
 		[types.leaves_type.cobblemon]
 			apricorn = true
 
+		[types.stone_type.biomeswevegone]
+			white_sandstone = true
+			blue_sandstone = true
+			black_sandstone = true
+			purple_sandstone = true
+			pink_sandstone = true
+			windswept_sandstone = true
+			red_rock = true
+			dacite = true
+			mossy_stone = true
+			rocky_stone = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.stone_type.garnished]
+			zultanite = true
+			abyssal_stone = true
+			carnotite = true
+			unstable_stone = true
+			ritualistic_stone = true
+			dragon_stone = true
+
+		[types.stone_type.create_d2d]
+			cut_stone = true
+
+		[types.mud_type.biomeswevegone]
+			pale_mud = true
+
 #Disables specific entries
 [entries]
 
@@ -139,3 +174,43 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
+
+		[entries.stone_type.stoneworks]
+			tile_stairs = true
+			plate_slab = true
+			shingle_wall = true
+			paver_stairs = true
+			paver_wall = true
+			shingles = true
+			plate_wall = true
+			plates = true
+			tile_wall = true
+			cracked_tiles = true
+			shingle_stairs = true
+			pavers = true
+			tiles = true
+			tile_slab = true
+			plate_stairs = true
+			pillar = true
+			shingle_slab = true
+			paver_slab = true
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			polished_cut_stairs = true
+			polished_cut_wall = true
+			cut_slab = true

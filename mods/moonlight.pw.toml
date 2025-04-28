@@ -1,4 +1,4 @@
-filename = 'moonlight-1.21-2.18.12-neoforge.jar'
+filename = 'moonlight-1.21-2.18.13-neoforge.jar'
 name = 'Moonlight Lib'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3aebf0ae548d2ad3d915c7be2da338f615f1f1d8e27421241714c56d329e60655aad0878d2e20ac6db0cd202c1ec2b1057e0bf8717f9434776390f98d2997d47'
+hash = '4b6fba77bcb23400c63ed4c55fec9a4bac06e7fcb37429838fd73c257bef7d5d7c90a0752bb2c47ff6f707c5fb396f157b81b8fa9f331d81abff5e42844c5518'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/NSJrdBWX/moonlight-1.21-2.18.12-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/xk77V47Y/moonlight-1.21-2.18.13-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'twkfQtEc'
-version = 'NSJrdBWX'
+version = 'xk77V47Y'
