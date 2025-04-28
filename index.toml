@@ -173,10 +173,6 @@ file = "config/culturaldelights-common.toml"
 hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
-file = "config/cupboard.json"
-hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
-
-[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -369,10 +365,6 @@ file = "config/map_atlases-client.toml"
 hash = "d865ffeb83df2442947280b694725b1579f970befc77f6b3c7ab586229fb37cc"
 
 [[files]]
-file = "config/map_atlases-common.toml"
-hash = "c588d2656f2c8847fea65ceb155a61c5ef2e9b938d0d293c423b7eaad1ee1e17"
-
-[[files]]
 file = "config/modernfix-common.toml"
 hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
@@ -435,10 +427,6 @@ hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 [[files]]
 file = "config/prettyrain-client.toml"
 hash = "74414adc993726b0dcb4e853d7a80ef1ffda35aa2ef1b1dc78585776b2f2fa86"
-
-[[files]]
-file = "config/recipeessentials.json"
-hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
 
 [[files]]
 file = "config/releaserewards-server.toml"
