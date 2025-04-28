@@ -883,6 +883,11 @@ hash = "6f2f842c13b0cc7d84950b487aeda8dd5407d0654d6df4afc2369b901bd21641"
 metafile = true
 
 [[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "36392443f72d6d52afb576104b53e01c9e8e493bc5406fa4c4a214d60779c7e7"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "245474c7d0daf789efeb83ad7f3905c90f6a129febc610fab39441a85ae56a49"
 metafile = true
